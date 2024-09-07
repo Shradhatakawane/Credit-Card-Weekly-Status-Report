@@ -30,11 +30,11 @@ The aim of this project is to develop a comprehensive credit card weekly dashboa
   - Delinquent rate: 6.06%
 
 ## Power BI Visualizations
-### Slide 1: [Credit Card Transaction Report Dashboard]
-![Transaction Report](E:\PROJECT\CREDIT CARD BI PROJECT\Dashboards)
+### Slide 1: Credit Card Transaction Report Dashboard
+![Transaction Report dashboard](https://github.com/user-attachments/assets/007a3565-aac9-4f1f-b0f5-5685d77e708d)
 
-### Slide 2: [ Credit Card Customer Report Dashboard]
-![Customer Report](E:\PROJECT\CREDIT CARD BI PROJECT\Dashboards)
+### Slide 2: Credit Card Customer Report Dashboard
+![Customer Report Dashboard](https://github.com/user-attachments/assets/8ecd40d4-dfd7-4730-9d0b-47b5f619a3d0)
 
 ## Technologies Used
 - *SQL*: For database management and data storage.
